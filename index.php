@@ -26,12 +26,22 @@ get_header(); ?>
 if ( have_posts() ) {
 
 	// Load posts loop.
+        ?>
+        <div class="row">
+        <?php
 	while ( have_posts() ) {
+            ?>
+            <div class="col-md-<?php echo rand(3,7); ?>">
+            <?php
 		the_post();
-
 		get_template_part( 'template-parts/content/content', get_theme_mod( 'display_excerpt_or_full_post', 'excerpt' ) );
+            ?>
+            </div>
+            <?php
 	}
-
+        ?>
+        </div>
+        <?php
 	// Previous/next page navigation.
 	twenty_twenty_one_the_posts_navigation();
 

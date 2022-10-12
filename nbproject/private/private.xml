@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/single.php</file>
             <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/style.css</file>
-            <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/header.php</file>
             <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/category.php</file>
             <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/functions.php</file>
+            <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/single.php</file>
+            <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/header.php</file>
+            <file>file:/var/www/html/wordpress/wp-content/themes/fabricioweb_theme/index.php</file>
         </group>
     </open-files>
 </project-private>
